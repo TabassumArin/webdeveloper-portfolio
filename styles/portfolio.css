@@ -6,6 +6,8 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 200px;
+    
 }
 .nav-title{
     color: var(--Dark-01, #181818);
@@ -46,7 +48,19 @@ padding: 18px 38px;
 
     }
 
+    .header{
+        background-color: #ab9787;
+    }
     
+    .banner{
+        padding: 30px 30px 30px 150px;
+        display: flex;
+        align-items: center;
+    }
+
+    .banner .my-pic{
+        width: 300px;
+    }
 
     
     
